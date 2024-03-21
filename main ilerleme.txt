@@ -10,3 +10,5 @@ main ilerleme devam
 
 
 EN SON ilerleme
+
+duygu branch'ten sonra ilerleme
