@@ -1,3 +1,5 @@
 duygu branch acildi. ilk commit yapilacak.
 
 2. commit yapilacak
+
+EN SON ilerleme
