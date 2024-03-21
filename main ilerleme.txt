@@ -14,3 +14,5 @@ EN SON ilerleme
 duygu branch'ten sonra ilerleme
 
 duygu branch'ten sonra 2. commit
+
+2. murat branch baglandi. main branch devam
