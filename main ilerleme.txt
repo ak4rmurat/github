@@ -7,3 +7,6 @@ main branch 3. commit atildi.
 main branch 2. murat branch baglandi. duygu branch merge edilmedi.
 
 main ilerleme devam
+
+
+EN SON ilerleme
