@@ -1,1 +1,3 @@
 mainde ilk commit atildi.
+
+mainde 2. commit atildi.
