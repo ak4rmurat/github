@@ -1,3 +1,5 @@
 mainde ilk commit atildi.
 
 mainde 2. commit atildi.
+
+main branch 3. commit atildi.
